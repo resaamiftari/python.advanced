@@ -3,6 +3,14 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProject/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProjectLesson6/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProjectLesson8/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProjectlesson10/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProjectlesson11/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProjectlesson5/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProjectlesson9/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/python.advancedLesson7/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (python.advanced)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
