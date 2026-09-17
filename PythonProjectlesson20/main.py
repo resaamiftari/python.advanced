@@ -23,3 +23,11 @@ def root():
             }
         ]
     }
+
+@app.get("/users/")
+def read_root():
+    return {
+        "message": "Hello There"
+    }
+
+
