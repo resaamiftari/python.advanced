@@ -39,4 +39,9 @@ def insert_data(books,authors):
             author_id = conn.execute(
                 "SELECT id FROM authors WHERE name = ?", (author,)
             ).fetchone()["id"]
-            conn.execute("""INSERT OR IGNORE INTO books(title,author_id,books_link,genres,average_rating,publishes_year) """)
+            conn.execute("""
+            INSERT OR IGNORE INTO books
+            (title,author_id,books_link,genres)
+             """)
+
+
